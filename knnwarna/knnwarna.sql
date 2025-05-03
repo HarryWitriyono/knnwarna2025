@@ -28,7 +28,7 @@ SET time_zone = "+00:00";
 --
 
 CREATE TABLE `datatraining` (
-  `IdData` int(11) NOT NULL,
+  `IdData` int(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
   `Kecerahan` double(5,2) DEFAULT NULL,
   `Kejenuhan` double(5,2) DEFAULT NULL,
   `Kelas` varchar(15) NOT NULL
