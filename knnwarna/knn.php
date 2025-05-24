@@ -1,7 +1,7 @@
 <?php
 
 function euclideanDistance($a, $b) {
-    return sqrt(pow($a[0] - $b[0], 2) + pow($a[1] - $b[1], 2));
+    return sqrt(($a[0] - $b[0])**2 + pow($a[1] - $b[1], 2));
 }
 
 function knnPredict($trainingData, $input, $k) {
