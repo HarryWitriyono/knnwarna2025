@@ -68,14 +68,14 @@ CREATE TABLE `datauji` (
 --
 -- Indexes for table `datatraining`
 --
-ALTER TABLE `datatraining`
-  ADD PRIMARY KEY (`IdData`);
+-- ALTER TABLE `datatraining`
+--  ADD PRIMARY KEY (`IdData`);
 
 --
 -- Indexes for table `datauji`
 --
-ALTER TABLE `datauji`
-  ADD PRIMARY KEY (`IdData`);
+--ALTER TABLE `datauji`
+ -- ADD PRIMARY KEY (`IdData`);
 
 --
 -- AUTO_INCREMENT for dumped tables
@@ -84,9 +84,9 @@ ALTER TABLE `datauji`
 --
 -- AUTO_INCREMENT for table `datatraining`
 --
-ALTER TABLE `datatraining`
-  MODIFY `IdData` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
-COMMIT;
+--ALTER TABLE `datatraining`
+--  MODIFY `IdData` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
+--COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
