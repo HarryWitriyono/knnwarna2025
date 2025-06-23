@@ -1,0 +1,1 @@
+File ini contoh perhitungan K-Means pada Spreadsheet Microsoft Excel, bisa digunakan juga pada Google Excel.  Selamat belajar, bila ada kesulitan atau yang mau didiskusikan silahkan kontak saya di WA 08153902534 atau via email : harrywitriyono@umb.ac.id
